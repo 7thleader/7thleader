@@ -16,8 +16,9 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7thleader&theme=dark&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7thleader&theme=dark&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/7thleader?style=for-the-badge&logo=github&color=23272d" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/7thleader?style=for-the-badge&logo=github&color=007ec6" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/7thleader?style=for-the-badge&logo=github&color=success" alt="Repos" />
 </p>
 
 <p align="center">
