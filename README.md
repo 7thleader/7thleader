@@ -15,11 +15,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7thleader&theme=dark&show_icons=true&v=1)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=7thleader&theme=dark&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7thleader&theme=dark&layout=compact" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=7thleader&theme=dark&v=1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7thleader&theme=dark&layout=compact&v=1)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=7thleader&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
-![Profile Views](https://visitcount.itsvg.in/api?id=7thleader&icon=0&color=0&v=1)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=7thleader&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
