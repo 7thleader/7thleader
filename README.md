@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building data-driven projects and learning how to design efficient pipelines.  <br>🤝 I’m looking to collaborate on open-source projects that involve analytics, machine learning, or backend development.  <br>👐 I’m looking for help with improving my SQL and cloud skills (AWS & GCP).  <br>🌱 I’m currently learning Python for data science and exploring object-oriented programming.  <br>💬 Ask me about statistics, R programming, or cool basketball facts.  <br>⚡ Fun fact: I can spend hours cleaning messy datasets and actually enjoy it!  <br>
+🔭 I’m currently working on building data-driven projects and learning how to design efficient pipelines.  <br>🤝 I’m looking to collaborate on open-source projects that involve analytics, machine learning, or backend development.  <br>👐 I’m looking for help with improving my SQL and cloud skills (AWS & GCP).  <br>🌱 I’m currently learning Python for data science and exploring object-oriented programming.  <br>💬 Ask me about statistics, R programming, or cool history facts.  <br>⚡ Fun fact: I can spend hours cleaning messy datasets and actually enjoy it!  <br>
 
 
 ## 🌐 Socials:
